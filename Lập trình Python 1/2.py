@@ -13,4 +13,11 @@
         <class>CTK43</class>
         <gender>Nữ</gender>
     </student>
+    <student>
+        <studentID>SV003</studentID>
+        <name>Phạm Văn C</name>
+        <birthYear>2000</birthYear>
+        <class>CTK42</class>
+        <gender>Nam</gender>
+    </student>
 </students>
